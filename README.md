@@ -8,6 +8,7 @@ VTD-XML is the next generation XML parser/indexer/editor/slicer/assembler/xpath-
 |2.13_3  |2.13_3   |
 |2.13_2  |2.13_2   |
 |2.13_1  |2.13_1   |
+|2.13  |2.13   |
 
 # Release notes
 2.13_4 added support for supplementary characters. It also significantly reduces memory usage for xpath large XML files returning
